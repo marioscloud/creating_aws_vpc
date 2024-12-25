@@ -4,7 +4,7 @@
 This project provides a comprehensive guide to setting up and managing AWS Virtual Private Cloud (VPC) resources using Terraform. The repository includes a well-structured directory with modular configurations, enabling scalable and maintainable infrastructure as code practices. This repository is ideal for cloud architects, DevOps engineers, and anyone looking to automate the creation of AWS VPCs and manage infrastructure efficiently.
 
 ## Prerequisites
-- Terraform v0.14 or later
+- Terraform v5.0 or later
 - AWS CLI configured with appropriate credentials
 
 ## Contact
