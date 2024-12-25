@@ -16,7 +16,7 @@ If you have any questions, feel free to reach out at marioscloud@duck.com.
 git clone https://github.com/marioscloud/creating_aws_vpc
             2. Navigate to the project directory:
 sh
-cd /home/ubuntu/terraform_project/project_aws_01
+cd creating_aws_vpc
             3. Initialize Terraform:
 sh
 terraform init
